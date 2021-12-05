@@ -110,9 +110,9 @@ eyymwsverteseiicohdwh', 'its'),
             'answer': None
         },
         {
-            'input': ('rglseknaagrtmssqecoisrcintaoeutefriodroovaelomltdrbewwlseiyrbesnemoternusnteruptadhagrtmilehm\
-tootasaighiptitteuptaelomltdrbeiuabgosnpeieevnnrofriitrrttoohypaignloihiaeunefntutoshtnmspromnretslewlfruaepolmeilpc\
-fpolmitrsfhiiptadhiotusnteloihwlbteehdfrnltntenusnohotuswlfruaepolmsnmiuuadrcslaigoomomsnepeainu',
+            'input': ('rhpinotisucfsuisanupfmoeolaloutpbmwlefrlstmfeiuatiuuataotwltmhorstgepsthuualoutpbmumgunrilvgr\
+mrstptiolenarhseeeitcotteseoirrsvwlrlerlwiscyoeiestintnhrttnhlrhibheofalitiuioettwlrlerlinbusdeseinofmieraouyaglimaq\
+nonrtnhomtrrndtoeefmadoeelpipbmnrohrpsdeopsdegimleetdtnanhntntopsefmadoesaioapceanoooinretngskag',
                       'algorithm'),
             'answer': 'roughlyspeakinganalgorithmisasequenceofinstructionsthatonemustperforminordertosolveawellformu\
 latedproblemwewillspecifyproblemsintermsoftheirinputsandtheiroutputsandthealgorithmwillbethemethodoftranslatingthein\
