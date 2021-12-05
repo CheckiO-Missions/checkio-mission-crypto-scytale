@@ -4,6 +4,8 @@ This is the second in a series of missions dedicated to classical cryptography. 
 </i>  
 </p>
 
+<img class="for_info_only half" style="float: left" src="{{ MEDIA }}Skytale.png">
+
 <p>
 Scytale is one of the first known cryptographic devices, used by ancient Greeks, namely Spartans, during their military campaigns.
 It consisted of a cylindrical rod or staff with a long strip of parchment wrapped around it. The sender would simply write the message along the length of the rod and across the winds of a strip until the end of the parchment was reached, then turn the cylinder and continue writing the next line. After unwinding the parchment, the text became unintelligible. 
@@ -17,12 +19,8 @@ Scytale is a <i>transposition</i> cipher. Unlike substitution ciphers, like Atba
 <p>
 For example, suppose the message is <b>"let's meet at eleven in the evening"</b> and diameter of the rod allows to write 4 letters in a circle. The scytale with a message written on it would look like this:
 </p>
-<pre>
-|l|e|t|s|m|e|e| |
-|t|a|t|e|l|e|v|_|
-|e|n|i|n|t|h|e|
-|e|v|e|n|i|n|g|
-</pre>
+
+<img src="{{ MEDIA }}ex1.png">
 
 <p>
 After unwinding the strip the message becomes "lteeeanvttiesennmltieehneveg".
@@ -40,13 +38,7 @@ In this mission we'll try to break a scytale encryption. You have a cryptogram a
 There is also one last piece of informaion: you know that the sender encrypts the messages using the shortest possible strip of parchment, so that there are no empty spaces on it. for example, the message <b>"let's meet at eleven in the evening"</b>, encrypted with key <b>5</b>, will look like this:
 </p>
 
-<pre>
-|l|e|t|s|m|e|
-|e|t|a|t|e|l|
-|e|v|e|n|i|n|
-|t|h|e|e|v|
-|e|n|i|n|g|
-</pre>
+<img src="{{ MEDIA }}ex2.png">
 
 <p>
 Note that the lines have different lengths. The cryptogram will be "leeteetvhntaeeistnenmeivgeln"
