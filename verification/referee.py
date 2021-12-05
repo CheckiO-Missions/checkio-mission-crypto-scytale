@@ -38,7 +38,7 @@ api.add_listener(
     CheckiOReferee(
         tests=TESTS,
         function_name={
-            "python": "scytale"
+            "python": "scytale_decipher"
         },
         cover_code={
             'python-3': cover_codes.unwrap_args
