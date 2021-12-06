@@ -1,4 +1,4 @@
-def scytale_decipher(ciphertext: str, crib: str) -> str:
+def scytale_decipher(ciphertext: str, crib: str) -> Optional[str]:
     # your code here
     return ''
 
